@@ -1,20 +1,20 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical)](https://git.io/streak-stats)
 
+---
+
 <div align="center">
 
-# 🚀 Hi, I'm kritika
+# 🚀 Hi, I'm  kritika
 ### 🎓 B.Tech 2nd Year Student | Frontend Developer & Python Enthusiast
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+"Building my foundation in programming, one commit at a time."
 
 ---
 
 ### 👨‍💻 About Me
-"Currently building my foundation in programming and web technologies."
-
 🔭 **Current Focus:** Frontend Web Development 🌐  
-🌱 **Learning:** Python Programming and UI Design 🐍  
-⚡ **Interests:** Solving problems using C, C++, and exploring the web world.
+🌱 **Learning:** Python Programming 🐍  
+⚡ **Interests:** Problem solving in C & C++ and building responsive web pages.
 
 ---
 
@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web Development (Frontend)** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**Web Development** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Tools** ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -33,17 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
----
-
 ### 🤝 Let's Connect!
-[LinkedIn] https://www.linkedin.com/in/kritika-batra-ab6ab0350/| [Gmail] kritika02056@gmail.com
+[LinkedIn] https://www.linkedin.com/in/kritika-batra-ab6ab0350/ | [Gmail] kritika02056@gmail.com
 
 </div>
-
- 
-
-
-
