@@ -33,6 +33,9 @@
 
 ---
 
+### 📊 My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
 ### 🤝 Let's Connect!
 [LinkedIn] https://www.linkedin.com/in/kritika-batra-ab6ab0350/ | [Gmail] kritika02056@gmail.com
 
