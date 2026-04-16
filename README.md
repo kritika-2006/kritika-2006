@@ -1,5 +1,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical)](https://git.io/streak-stats)
- Hi, I'm [kritika] 
+
+ Hi, I'm kritika 
 
  🎓 CS Student | Full Stack Developer in Making
 
