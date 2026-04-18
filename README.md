@@ -1,6 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical&timezone=Asia/Kolkata)](https://git.io/streak-stats)
 
----
 
 <div align="center">
 
@@ -30,6 +28,9 @@
 
 **Tools** ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical&timezone=Asia/Kolkata)](https://git.io/streak-stats)
 
 ---
 
