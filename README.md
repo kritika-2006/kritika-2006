@@ -31,6 +31,11 @@
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical&timezone=Asia/Kolkata)](https://git.io/streak-stats)
+---
+### 📊 Streak Tracking
+- **Last Sync:** May 2, 2026 (IST)
+- **Status:** Active 🚀
+- **Note:** Fixed file handling logic and updated documentation.
 
 ---
 
