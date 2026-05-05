@@ -15,7 +15,6 @@
 ⚡ **Interests:** Problem solving in C & C++ and building responsive web pages.
 
 ---
-
 ### 🛠 Tech Stack & Tools
 
 **Languages** ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
