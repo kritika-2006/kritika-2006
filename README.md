@@ -8,15 +8,15 @@
 ---
 
 ### 👨‍💻 About Me
-🔭 **Current Focus:** Deepening my knowledge in **Frontend Web Development** 🌐  
-🌱 **Learning:** Advanced **Python** concepts (Inheritance, Memory Management) and **OS** fundamentals 🐍  
-⚡ **Consistency:** Maintaining a daily GitHub contribution streak to build solid coding habits 📈
+* 🔭 **Current Focus:** Deepening my knowledge in **Frontend Web Development** 🌐  
+* 🌱 **Learning:** Advanced **Python** concepts (Inheritance, Memory Management) and **OS** fundamentals 🐍  
+* ⚡ **Consistency:** Maintaining a daily GitHub contribution streak to build solid coding habits 📈
 
 ---
 
 ### 📂 Featured Projects
-**[Smart Hassle Solve](https://smart-hassle-solve.base44.com)** 🛠️
-*A responsive web solution developed and deployed on Base44, focusing on solving everyday challenges through clean frontend design.*
+**[Smart Hassle Solver (Project)](https://github.com/kritika-2006/project)** 🛠️
+*A responsive web solution focusing on solving everyday challenges through clean HTML, CSS, and JavaScript. Check out the source code in my 'project' repository.*
 
 ---
 
@@ -39,11 +39,10 @@
 ---
 
 ### 📈 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<!-- Agar stats ab bhi error dein, toh 5-10 mins baad check karein, ye API refresh hone mein time leti hai -->
+<img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ---
 
