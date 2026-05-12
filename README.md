@@ -56,4 +56,5 @@
 📫 **Gmail:** [kritika02056@gmail.com](mailto:kritika02056@gmail.com)  
 🔗 **LinkedIn:** [Kritika Batra](https://www.linkedin.com/in/kritika-batra-ab6ab0350/)
 
+
 </div>
