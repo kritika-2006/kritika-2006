@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 # 🚀 Hi, I'm Kritika
 ### 🎓 B.Tech 2nd Year (CSE) | Frontend Developer & Python Enthusiast
