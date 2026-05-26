@@ -13,7 +13,6 @@
 * ⚡ **Consistency:** Maintaining a daily GitHub contribution streak to build solid coding habits 📈
 
 ---
-
 ### 📂 Featured Projects
 
 **[Smart Hassle Solver (Live Website)](https://kritika-2006.github.io/project/)** 🌐 | **[Source Code](https://github.com/kritika-2006/project)** 🛠️
