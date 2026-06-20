@@ -58,10 +58,9 @@
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <!-- ⚠️ BADLAV KAREIN: Dono links mein jahan 'YAHAN_APNA_GITHUB_USERNAME_DALO' likha hai, wahan apna real GitHub username likhein -->
- username=https://github.com/kritika-2006&show_icons=true&theme=radial&hide_border=true" alt="Kritika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=radial&hide_border=true" alt="Kritika's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/kritika-2006&theme=radial&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radial&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
