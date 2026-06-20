@@ -23,7 +23,7 @@
 ### 🌐 Smart Hassle Solver
 * **Description:** A responsive web solution designed to solve everyday challenges with a clean, user-friendly interface.
 * **Tech Stack:** HTML5, CSS3, JavaScript
-* **Links:** [Live Demo](https://smart-hassle-solve.base44.app) 🔗 | [Source Code 🛠️](https://github.com/)
+* **Links:** [Live Demo]https://kritika-2006.github.io/project.html/ 🔗 | [Source Code 🛠️](https://github.com/)
 
 ---
 
