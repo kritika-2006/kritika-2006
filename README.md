@@ -23,7 +23,7 @@
 ### 🌐 Smart Hassle Solver
 * **Description:** A responsive web solution designed to solve everyday challenges with a clean, user-friendly interface.
 * **Tech Stack:** HTML5, CSS3, JavaScript
-* **Links:** [Live Demo](https://kritika-2006.github.io/project/) 🔗 | [Source Code 🛠️](/https://github.com/kritika-2006/smart-hassle-solve) 
+* **Links:** [Live Demo](https://kritika-2006.github.io/project/) 🔗 | [Source Code 🛠️](https://github.com/kritika-2006/project.git)
 
 ---
 
@@ -64,5 +64,8 @@
   </a>
   <a href="https://www.linkedin.com/in/kritika-batra-ab6ab0350/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kritika-2006"> 
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
