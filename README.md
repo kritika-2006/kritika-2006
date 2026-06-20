@@ -55,15 +55,13 @@
 </p>
 
 ---
-## 📈 My GitHub Stats
 
 ## 📈 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radial&hide_border=true" alt="GitHub Streak" />
 </p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radial&hide_border=true" alt="GitHub Streak" />
-</p>
+  
 
 ---
 
