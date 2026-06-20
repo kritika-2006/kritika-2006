@@ -23,7 +23,7 @@
 ### 🌐 Smart Hassle Solver
 * **Description:** A responsive web solution designed to solve everyday challenges with a clean, user-friendly interface.
 * **Tech Stack:** HTML5, CSS3, JavaScript
-* **Links:** [Live Demo]https://kritika-2006.github.io/project/ 🔗 | [Source Code 🛠️](https://github.com/)
+* **Links:** [Live Demo](https://kritika-2006.github.io/project/) 🔗 | [Source Code 🛠️](/https://github.com/kritika-2006/smart-hassle-solve) 
 
 ---
 
@@ -56,23 +56,13 @@
 
 ---
 
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/kritika-2006&show_icons=true&theme=radial&hide_border=true" alt="Kritika's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/kritika-2006&theme=radial&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 <p align="left">
   <a href="mailto:kritika02056@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href=https://www.linkedin.com/in/kritika-batra-ab6ab0350/>
+  <a href="https://www.linkedin.com/in/kritika-batra-ab6ab0350/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
