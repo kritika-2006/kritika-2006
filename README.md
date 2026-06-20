@@ -23,7 +23,7 @@
 ### 🌐 Smart Hassle Solver
 * **Description:** A responsive web solution designed to solve everyday challenges with a clean, user-friendly interface.
 * **Tech Stack:** HTML5, CSS3, JavaScript
-* **Links:** [Live Demo](https://kritika-2006.github.io/project/) 🔗 | [Source Code 🛠️](https://github.com/kritika-2006/project.git)
+* **Links:** [Live Demo]https://kritika-2006.github.io/project/ 🔗 | [Source Code 🛠️]https://github.com/kritika-2006/project.git
 
 ---
 
@@ -52,6 +52,16 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+## 📈 My GitHub Stats
+
+<p align="center">
+  <!-- ⚠️ BADLAV KAREIN: Dono links mein jahan 'YAHAN_APNA_GITHUB_USERNAME_DALO' likha hai, wahan apna real GitHub username likhein -->
+ username=https://github.com/kritika-2006&show_icons=true&theme=radial&hide_border=true" alt="Kritika's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/kritika-2006&theme=radial&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
