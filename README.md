@@ -1,19 +1,20 @@
-# 🚀 Hi, I'm Kritika!
+
+  # 🚀 Hi, I'm Kritika!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=false&vCenter=false&width=435&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Frontend+Developer+%F0%9F%8C%90;Python+Enthusiast+%F0%9F%90%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=false&vCenter=false&width=435&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Frontend+Developer+%F0%9F%8C%90;Python+Enthusiast+%F0%9F%90%8D;Cybersecurity+Learner+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-> "Building my foundation in programming, one commit at a time." 📈
+> "Building my foundation in computer science and secure programming, one commit at a time." 📈
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 **Education:** 2nd-Year B.Tech (CSE) Student, currently mastering core concepts.
+* 🎓 **Education:** 2nd-Year B.Tech (CSE) Student, mastering core concepts.
 * 🔭 **Current Focus:** Deepening my knowledge in **Frontend Web Development** 🌐 and **Data Structures & Algorithms (DSA)**.
 * 🌱 **Learning:** Advanced Python concepts (Memory Management, OOPs) and **Operating Systems** fundamentals.
-* 🛡️ **Interests:** Exploring Cybersecurity and hands-on labs on **TryHackMe**.
+* 🛡️ **Cybersecurity Focus:** Actively solving hands-on rooms on **TryHackMe**, focusing on Linux fundamentals, network security, and defensive security strategies.
 * ⚡ **Consistency:** Actively maintaining a daily GitHub contribution streak to build solid coding habits!
 
 ---
@@ -33,12 +34,20 @@
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/bash-%231E293B.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Linux Scripting" />
 </p>
 
 ### 🌐 Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🛡️ Cybersecurity & Labs
+<p align="left">
+  <img src="https://img.shields.io/badge/TryHackMe-%23212c42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-167EBA?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
 
 ### 🧰 Tools & Platforms
