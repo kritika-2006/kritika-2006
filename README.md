@@ -56,10 +56,12 @@
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 My GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radial&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.angular-9as.pages.dev/api?username=kritika-2006&show_icons=true&theme=radical&hide_border=true" alt="Kritika's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
   
 
