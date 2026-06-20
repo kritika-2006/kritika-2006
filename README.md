@@ -1,21 +1,20 @@
-
-  # 🚀 Hi, I'm Kritika!
+# 🚀 Hi, I'm Kritika!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=false&vCenter=false&width=435&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Frontend+Developer+%F0%9F%8C%90;Python+Enthusiast+%F0%9F%90%8D;Cybersecurity+Learner+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=false&vCenter=false&width=500&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F;Frontend+Developer+%F0%9F%8C%90;Python+Enthusiast+%F0%9F%90%8D" alt="Typing SVG" />
 </p>
 
-> "Building my foundation in computer science and secure programming, one commit at a time." 📈
+> "Building my foundation in tech, tracking growth from my very first commit." 📈
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 **Education:** 2nd-Year B.Tech (CSE) Student, mastering core concepts.
-* 🔭 **Current Focus:** Deepening my knowledge in **Frontend Web Development** 🌐 and **Data Structures & Algorithms (DSA)**.
+* 🎓 **Education:** 2nd-Year B.Tech (CSE) Student, currently mastering core concepts.
+* 🛡️ **Cybersecurity Focus:** Actively exploring Security Fundamentals and solving hands-on labs on **TryHackMe**.
+* 🔭 **Technical Focus:** Deepening my knowledge in **Data Structures & Algorithms (DSA)** and **Frontend Web Development** 🌐.
 * 🌱 **Learning:** Advanced Python concepts (Memory Management, OOPs) and **Operating Systems** fundamentals.
-* 🛡️ **Cybersecurity Focus:** Actively solving hands-on rooms on **TryHackMe**, focusing on Linux fundamentals, network security, and defensive security strategies.
-* ⚡ **Consistency:** Actively maintaining a daily GitHub contribution streak to build solid coding habits!
+* ⚡ **Consistency:** Maintaining my **ongoing, long-term GitHub contribution streak** to track habits from the absolute start of my journey!
 
 ---
 
@@ -30,24 +29,22 @@
 
 ## 🛠 Tech Stack & Tools
 
+### 🛡️ Cybersecurity & Labs
+<p align="left">
+  <img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=guardsquare&logoColor=white" alt="Cybersecurity" />
+</p>
+
 ### 🗣️ Languages & Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/bash-%231E293B.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Linux Scripting" />
 </p>
 
 ### 🌐 Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### 🛡️ Cybersecurity & Labs
-<p align="left">
-  <img src="https://img.shields.io/badge/TryHackMe-%23212c42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-167EBA?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
 
 ### 🧰 Tools & Platforms
@@ -62,9 +59,9 @@
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true" alt="Kritika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/kritika-2006&show_icons=true&theme=radial&hide_border=true" alt="Kritika's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radial&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/kritika-2006&theme=radial&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -75,7 +72,7 @@
   <a href="mailto:kritika02056@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href=https://www.linkedin.com/in/kritika-batra-ab6ab0350/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
