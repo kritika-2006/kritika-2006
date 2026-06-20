@@ -62,13 +62,13 @@
 ## 📈 My GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kritika's GitHub Stats" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kritika's GitHub Stats" width="48%" />
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-2006&layout=compact&theme=radical&hide_border=true&langs_count=5" alt="Kritika's Most Used Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-2006&layout=compact&theme=radical&hide_border=true&langs_count=5" alt="Kritika's Most Used Languages" width="48%" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical&hide_border=true" alt="Kritika's GitHub Streak" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical&hide_border=true" alt="Kritika's GitHub Streak" width="60%" />
 </p>
 
 
