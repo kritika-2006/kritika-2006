@@ -1,59 +1,72 @@
-  <div align="center">
+# 🚀 Hi, I'm Kritika!
 
-# 🚀 Hi, I'm Kritika
-### 🎓 B.Tech 2nd Year (CSE) | Frontend Developer & Python Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=false&vCenter=false&width=435&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Frontend+Developer+%F0%9F%8C%90;Python+Enthusiast+%F0%9F%90%8D" alt="Typing SVG" />
+</p>
 
-"Building my foundation in programming, one commit at a time."
-
----
-
-### 👨‍💻 About Me
-* 🔭 **Current Focus:** Deepening my knowledge in **Frontend Web Development** 🌐  
-* 🌱 **Learning:** Advanced **Python** concepts (Inheritance, Memory Management) and **OS** fundamentals 🐍  
-* ⚡ **Consistency:** Maintaining a daily GitHub contribution streak to build solid coding habits 📈
-
----
-### 📂 Featured Projects
-
-**[Smart Hassle Solver (Live Website)](https://kritika-2006.github.io/project/)** 🌐 | **[Source Code](https://github.com/kritika-2006/project)** 🛠️
-*A responsive web solution built with HTML, CSS, and JavaScript, designed to solve everyday challenges with a clean user interface.*
+> "Building my foundation in programming, one commit at a time." 📈
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 👨‍💻 About Me
 
-**Languages** 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web Development** 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools** 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* 🎓 **Education:** 2nd-Year B.Tech (CSE) Student, currently mastering core concepts.
+* 🔭 **Current Focus:** Deepening my knowledge in **Frontend Web Development** 🌐 and **Data Structures & Algorithms (DSA)**.
+* 🌱 **Learning:** Advanced Python concepts (Memory Management, OOPs) and **Operating Systems** fundamentals.
+* 🛡️ **Interests:** Exploring Cybersecurity and hands-on labs on **TryHackMe**.
+* ⚡ **Consistency:** Actively maintaining a daily GitHub contribution streak to build solid coding habits!
 
 ---
 
-### 📈 My GitHub Stats
-<!-- Stats cards automatically update based on your activity -->
-<img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+## 📂 Featured Projects
+
+### 🌐 Smart Hassle Solver
+* **Description:** A responsive web solution designed to solve everyday challenges with a clean, user-friendly interface.
+* **Tech Stack:** HTML5, CSS3, JavaScript
+* **Links:** [Live Demo](https://smart-hassle-solve.base44.app) 🔗 | [Source Code 🛠️](https://github.com/)
 
 ---
 
-### 🏆 Consistency Matters
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical&timezone=Asia/Kolkata)](https://git.io/streak-stats)
+## 🛠 Tech Stack & Tools
+
+### 🗣️ Languages & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
-### 🤝 Let's Connect!
-📫 **Gmail:** [kritika02056@gmail.com](mailto:kritika02056@gmail.com)  
-🔗 **LinkedIn:** [Kritika Batra](https://www.linkedin.com/in/kritika-batra-ab6ab0350/)
+## 📈 My GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true" alt="Kritika's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radial&hide_border=true" alt="GitHub Streak" />
+</p>
 
-</div>
+---
+
+## 🤝 Let's Connect!
+
+<p align="left">
+  <a href="mailto:kritika02056@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
