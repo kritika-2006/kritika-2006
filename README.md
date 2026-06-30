@@ -54,11 +54,6 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
----
-
-
----
 ---
 
 ## 📈 My GitHub Stats & Streak
@@ -72,13 +67,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-2006&layout=compact&theme=radical&hide_border=true&langs_count=5" alt="Kritika's Most Used Languages" width="60%" />
 </p>
-
----
-
-
-
-
-  
 
 ---
 
