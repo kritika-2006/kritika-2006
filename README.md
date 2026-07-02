@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Kritika!
+# 🚀 Hi, I'm Kritika! 
 
  
 <p align="center">
