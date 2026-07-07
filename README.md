@@ -6,7 +6,7 @@
 </p>
 
  "Building my foundation in tech, tracking growth from my very first commit." 📈
-
+ 
 ---
 
 ## 👨‍💻 About Me
