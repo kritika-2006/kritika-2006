@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **Education:** 2nd-Year B.Tech (CSE) Student, currently mastering core concepts.
+* 🎓 **Education:** 3rd-Year B.Tech (CSE) Student, currently mastering core concepts.
 * 🛡️ **Cybersecurity Focus:** Actively exploring Security Fundamentals and solving hands-on labs on **TryHackMe**.
 * 🔭 **Technical Focus:** Deepening my knowledge in **Data Structures & Algorithms (DSA)** and **Frontend Web Development** 🌐.
 * 🌱 **Learning:** Advanced Python concepts (Memory Management, OOPs) and **Operating Systems** fundamentals.
