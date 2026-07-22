@@ -8,7 +8,6 @@
  "Building my foundation in tech, tracking growth from my very first commit." 📈
  
 ---
-
 ## 👨‍💻 About Me
 
 * 🎓 **Education:** 3rd-Year B.Tech (CSE) Student, currently mastering core concepts.
