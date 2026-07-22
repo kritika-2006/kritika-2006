@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=false&vCenter=false&width=500&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F;Frontend+Developer+%F0%9F%8C%90;Python+Enthusiast+%F0%9F%90%8D" alt="Typing SVG" />
 </p>
 
-> *"Building my foundation in tech, tracking growth from my very first commit."* 📝
+ *"Building my foundation in tech, tracking growth from my very first commit."* 📝
 
 ---
 
