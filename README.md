@@ -1,91 +1,64 @@
 # 🚀 Hi, I'm Kritika!
 
-<h3 align="left">Cybersecurity Enthusiast | Computer Science Undergrad 🛡️</h3>
+<h3 align="left">Cybersecurity Explorer | Computer Science Undergrad 🛡️</h3>
 
-> *"Driven by a passion for securing digital infrastructure, mastering core Computer Science concepts, and building clean web applications."*
-
----
-
-## 📌 Professional Overview
-
-| Domain | Current Focus & Learning Trajectory |
-| :--- | :--- |
-| 🛡️ **Cybersecurity** | Computer Networks, Linux System Administration, Web Vulnerabilities |
-| 💻 **Core CS & Academics** | Data Structures & Algorithms (Python), Operating Systems, GATE CS Prep |
-| 🌐 **Web Engineering** | Frontend Architecture (HTML5/CSS3/JavaScript), Responsive Web Systems |
-| ⚡ **Practice & Labs** | Hands-on Security Labs on OverTheWire (Bandit), TryHackMe & PortSwigger |
+> *"Building my foundation in tech, tracking growth from my very first commit."*
 
 ---
 
-## 🛠️ Technical Capabilities & Tools
+## 💻 About Me
 
-<table>
-  <tr>
-    <td width="30%"><b>Cybersecurity & Systems</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux_Terminal-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Networking_Fundamentals-0055DA?style=flat-square&logo=cisco&logoColor=white" />
-      <img src="https://img.shields.io/badge/TryHackMe-222222?style=flat-square&logo=tryhackme&logoColor=red" />
-      <img src="https://img.shields.io/badge/Burp_Suite_Basics-FF6600?style=flat-square&logo=burpsuite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Languages & Scripting</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Web Development</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Developer Tooling</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-    </td>
-  </tr>
-</table>
+* 🎓 **Education:** B.Tech CSE Student, focusing on core Computer Science subjects.
+* 🛡️ **Cybersecurity Focus:** Exploring Security Fundamentals and starting out with hands-on labs on **TryHackMe**.
+* 💻 **Technical Focus:** Deepening my knowledge in **Data Structures & Algorithms (DSA)** and **Frontend Web Development**.
+* 🐍 **Current Learning:** Advanced Python concepts (OOPs, Logic Building) and **Operating Systems** fundamentals.
+* ⚡ **Consistency:** Maintaining a continuous GitHub commit streak to track my daily coding habits.
 
 ---
 
-## 📂 Highlighted Projects
+## 📂 Featured Projects
 
 ### 🌐 Smart Hassle Solver
-> *A responsive web application designed to simplify daily workflow and problem-solving through an intuitive interface.*
+> *A responsive web solution designed to solve everyday challenges with a clean, user-friendly interface.*
 
 * **Tech Stack:** `HTML5` | `CSS3` | `JavaScript`
-* **Key Features:** Clean UI/UX design, responsive layout, optimized client-side logic.
-* **Repository:** [Live Application](https://kritika-2006.github.io/project/) • [Source Code](https://github.com/kritika-2006/project.git)
+* **Links:** [Live Demo](https://kritika-2006.github.io/project/) • [Source Code](https://github.com/kritika-2006/project.git)
 
 ---
 
-## 📊 Engineering Metrics
+## 🛠️ Tech Stack & Tools
 
-<align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+### 🛡️ Cybersecurity & Learning
+![TryHackMe](https://img.shields.io/badge/TryHackMe-222222?style=for-the-badge&logo=tryhackme&logoColor=red)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white)
+
+### 🐍 Languages & Web Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📈 My GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=tokyonight" alt="Kritika's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=tokyonight" alt="Kritika's GitHub Streak" />
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Let's Connect!
 
-<p>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/kritika-2006">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kritika-2006)
