@@ -1,6 +1,8 @@
 # 🚀 Hi, I'm Kritika!
 
-<h3 align="left">Cybersecurity Explorer 💔</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=false&vCenter=false&width=500&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F;Frontend+Developer+%F0%9F%8C%90;Python+Enthusiast+%F0%9F%90%8D" alt="Typing SVG" />
+</p>
 
 > *"Building my foundation in tech, tracking growth from my very first commit."* 📝
 
@@ -68,23 +70,23 @@
 ## 📈 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kritika's GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical&hide_border=true" alt="Kritika's GitHub Streak" width="48%" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect!
 
-<p>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="left">
+  <a href="mailto:kritika02056@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kritika-batra-ab6ab0350/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/kritika-2006">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/kritika-2006"> 
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
