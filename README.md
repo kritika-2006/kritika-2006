@@ -72,7 +72,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kritika's GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical&hide_border=true" alt="Kritika's GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=radical&hide_border=true" alt="Kritika's GitHub Streak" width="50%" />
 </p>
 
 ---
