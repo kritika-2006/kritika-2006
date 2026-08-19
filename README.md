@@ -1,14 +1,14 @@
 # 🚀 Hi, I'm Kritika! 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&width=500&lines=CS+Engineering+Student+%7C+2nd+Year;Frontend+Dev+%2B+Python+Enthusiast;Building+my+foundation+in+tech+day+by+day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&width=500&lines=CS+Engineering+Student+%7C+3rd+Year;Frontend+Dev+cybersecurity+%2B+Python+Enthusiast;Building+my+foundation+in+tech+day+by+day!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 **Education:** 2nd Year B.Tech Computer Science Student (4th Semester)
+* 🎓 **Education:** 3rd Year B.Tech Computer Science Student
 * 💡 **Current Focus:** Core Computer Science Fundamentals, Object-Oriented Programming in Python, & Data Structures
 * 🛡️ **Interests:** Cybersecurity basics, Web Development, and Systems Architecture
 * 🔥 **Habit Building:** Maintaining a daily GitHub contribution streak to track hands-on learning and code consistency
