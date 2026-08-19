@@ -1,8 +1,10 @@
-🚀 Hi, I'm Kritika!
+# 🚀 Hi, I'm Kritika!
 
-"Building my foundation in tech, tracking growth from my very first commit." 📝
+*"Building my foundation in tech, tracking growth from my very first commit."* 📝
 
-📌 Professional Profile
+---
+
+### 📌 Professional Profile
 
 | Focus Area | Core Competencies & Current Pursuits |
 | :--- | :--- |
@@ -12,27 +14,35 @@
 | 🌐 Frontend Development | HTML5, CSS3, JavaScript — Designing Responsive & User-Friendly Interfaces |
 | 📈 Consistency & Growth | Maintaining an Active Daily GitHub Contribution Streak for Long-term Habit Tracking |
 
-🛠️ Technical Capabilities & Tools
+---
 
-* **Programming Languages:**
-* **Web Technologies:**
-* **Security Platforms & Learning:**
-* **Tools & Environment:**
+### 🛠️ Technical Capabilities & Tools
 
-📂 Featured Projects
+* **Programming Languages:** 
+* **Web Technologies:** 
+* **Security Platforms & Learning:** 
+* **Tools & Environment:** 
 
-🌐 Smart Hassle Solver
+---
+
+### 📂 Featured Projects
+
+#### 🌐 Smart Hassle Solver
 A responsive web application designed to solve everyday challenges with a clean, user-friendly interface.
 
 * **Tech Stack:** HTML5 | CSS3 | JavaScript
 * **Key Focus:** User Interface Design, Responsive Layouts, Client-side Interactive Logic
 * **Links:** Live Demo • Source Code
 
-📈 Engineering Activity
+---
+
+### 📈 Engineering Activity
 
 * Kritika's GitHub Stats
 * Kritika's GitHub Streak
 
-🤝 Let's Connect!
+---
+
+### 🤝 Let's Connect!
 
 Gmail | LinkedIn | GitHub
