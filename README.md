@@ -1,5 +1,9 @@
 # 🚀 Hi, I'm Kritika!
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+my+foundation+in+tech%2C;tracking+growth+from+my+first+commit.%20📝" alt="Typing SVG" />
+</p>
+
 *"Building my foundation in tech, tracking growth from my very first commit."* 📝
 
 ---
@@ -18,10 +22,10 @@
 
 ### 🛠️ Technical Capabilities & Tools
 
-* **Programming Languages:** 
-* **Web Technologies:** 
-* **Security Platforms & Learning:** 
-* **Tools & Environment:** 
+* **Programming Languages:** Python, C, C++
+* **Web Technologies:** HTML5, CSS3, JavaScript
+* **Security Platforms & Learning:** TryHackMe
+* **Tools & Environment:** Git, GitHub, VS Code
 
 ---
 
@@ -32,17 +36,19 @@ A responsive web application designed to solve everyday challenges with a clean,
 
 * **Tech Stack:** HTML5 | CSS3 | JavaScript
 * **Key Focus:** User Interface Design, Responsive Layouts, Client-side Interactive Logic
-* **Links:** Live Demo • Source Code
+* **Links:** [Live Demo](https://smart-hassle-solve.base44.app) • [Source Code](https://github.com/kritika-2006/project)
 
 ---
 
 ### 📈 Engineering Activity
 
-* Kritika's GitHub Stats
-* Kritika's GitHub Streak
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=tokyonight&hide_border=true" alt="Kritika's GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=tokyonight&hide_border=true" alt="Kritika's GitHub Streak" />
+</p>
 
 ---
 
 ### 🤝 Let's Connect!
 
-Gmail | LinkedIn | GitHub
+[Gmail](mailto:kritika02056@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kritika-batra-ab6ab0350/) • [GitHub](https://github.com/kritika-2006)
