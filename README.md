@@ -16,21 +16,6 @@
     </a>
   </p>
 </div>
-  
-
-  <!-- Interactive Badges -->
-  <p align="center">
-    <a href="https://github.com/kritika-2006">
-      <img src="https://img.shields.io/github/followers/kritika-2006?label=Followers&style=for-the-badge&color=2575fc&logo=github" alt="GitHub Followers" />
-    </a>
-    <a href="https://kritika-2006.github.io/project/">
-      <img src="https://img.shields.io/badge/Live_App-Smart_Hassle_Solve-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live App" />
-    </a>
-    <a href="https://leetcode.com/u/kritika2k6/">
-      <img src="https://img.shields.io/badge/LeetCode-Active_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-    </a>
-  </p>
-</div>
 
 ---
 
