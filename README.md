@@ -102,12 +102,6 @@
 
 <br/>
 
-<div align="center">
-  <!-- Contribution Chart -->
-  <img src="https://ghchart.rshah.org/2575fc/kritika-2006" alt="GitHub Contribution Chart" width="100%" />
-  
-</div>
-
 ---
 
 ### 🤝 Connect With Me
