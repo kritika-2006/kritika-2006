@@ -16,9 +16,7 @@
     </a>
   </p>
 </div>
-  <p align="center">
-    <b>B.Tech CS Engineering Student | Frontend Developer | Cybersecurity Enthusiast | Problem Solver</b>
-  </p>
+  
 
   <!-- Interactive Badges -->
   <p align="center">
