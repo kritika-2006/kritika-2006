@@ -1,7 +1,21 @@
 <!-- HEADER BANNER SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2575FC&center=true&vCenter=true&width=650&height=70&lines=Hi+There!+I'm+Kritika+👋;Computer+Science+Engineer;Frontend+Developer+%26+Cybersecurity+Enthusiast" alt="Typing Banner" />
+  <h1>Hi There! I'm Kritika 👋</h1>
+  <h3>B.Tech CS Engineering Student | Frontend Developer | Cybersecurity Enthusiast | Problem Solver</h3>
 
+  <!-- Interactive Badges -->
+  <p align="center">
+    <a href="https://github.com/kritika-2006">
+      <img src="https://img.shields.io/github/followers/kritika-2006?label=Followers&style=for-the-badge&color=2575fc&logo=github" alt="GitHub Followers" />
+    </a>
+    <a href="https://kritika-2006.github.io/project/">
+      <img src="https://img.shields.io/badge/Live_App-Smart_Hassle_Solve-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live App" />
+    </a>
+    <a href="https://leetcode.com/u/kritika2k6/">
+      <img src="https://img.shields.io/badge/LeetCode-Active_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+    </a>
+  </p>
+</div>
   <p align="center">
     <b>B.Tech CS Engineering Student | Frontend Developer | Cybersecurity Enthusiast | Problem Solver</b>
   </p>
