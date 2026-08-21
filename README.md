@@ -78,10 +78,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/svgs/matlab/matlab-original.svg" alt="matlab" width="42" height="42"/>
-  </a>
-</p>
+  
 
 <p align="left">
   <b>Cybersecurity, Core CS & Tools:</b><br/>
