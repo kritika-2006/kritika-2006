@@ -1,7 +1,7 @@
 
    <!-- HEADER BANNER SECTION -->
 <div align="center">
-  <h1>Hi There! I'm Kritika 👋</h1>
+  <h1>Hi There! I'm Kritika 👋</h1> 
   <h3>B.Tech CS Engineering Student | Frontend Developer | Cybersecurity Enthusiast | Problem Solver</h3>
 
   <!-- Interactive Badges -->
@@ -23,7 +23,7 @@
 * 🎓 **Academic Background:** Pursuing **B.Tech in Computer Science & Engineering** .
 * 🛡️ **Security Focus:** Exploring **Cybersecurity**, Web Application Security, and Fundamental Cryptography.
 * 💻 **Technical Core:** Data Structures & Algorithms using **Python**, Modern **Frontend Architecture**, and Secure Coding practices.
-* 📖 **Foundational Knowledge:** Deep interest in *Operating Systems*, *Discrete Mathematics*, and *Network Security* and *database*.
+* 📖 **Foundational Knowledge:** Deep interest in *Operating Systems*, *Data structures and Algorithm*, and *Network Security* and *database*.
 
 ---
 
