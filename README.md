@@ -1,5 +1,5 @@
   
-   <!-- HEADER BANNER SECTION -->
+   <!-- HEADER BANNER SECTION -->   
 <div align="center">
   <h1>Hi There! I'm Kritika 👋</h1> 
   <h3>B.Tech CS Engineering Student | Frontend Developer | Cybersecurity Enthusiast | Problem Solver</h3>
