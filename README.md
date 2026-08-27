@@ -1,4 +1,4 @@
-
+ 
    <!-- HEADER BANNER SECTION -->
 <div align="center">
   <h1>Hi There! I'm Kritika 👋</h1> 
