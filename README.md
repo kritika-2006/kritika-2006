@@ -3,7 +3,7 @@
 <div align="center"> 
   <h1>Hi There! I'm Kritika 👋</h1>     
   <h3>B.Tech CS Engineering Student | Frontend Developer | Cybersecurity Enthusiast | Problem Solver</h3>
-
+ 
   <!-- Interactive Badges -->
   <p align="center">
     <a href="https://github.com/kritika-2006">
