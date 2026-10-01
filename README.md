@@ -20,7 +20,7 @@
 ## 🚀 Featured Projects & Technical Work
 
 ### 🌐 **Smart Hassle Solver**
-> * https://kritika-2006.github.io/project/*
+> * https://kritika-2006.github.io/project/ *
 
 * **Workflow Optimization:** Designed to streamline user workflow and daily hassle management with an intuitive user interface.
 * **Responsive Engineering:** Built using core HTML5 & CSS3 standards with clean, maintainable code.
@@ -29,7 +29,7 @@
 ---
 
 ### 📚 **DSA & Problem Solving Vault**
-> *Automated Code Repository*
+> https://github.com/kritika-2006/Dsa
 
 * **Continuous Integration:** Automated sync pipeline linking LeetCode submissions directly to GitHub.
 * **Language Focus:** Well-structured data structures and algorithmic implementations in Python.
