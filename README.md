@@ -10,17 +10,17 @@
 
 ## 💫 About Me
 
-* 🎓 **Academic Background:** Pursuing B.Tech in Computer Science & Engineering.
-* 🛡️ **Security Focus:** Exploring Cybersecurity, Web Application Security, and Fundamental Cryptography.
-* 💻 **Technical Core:** Data Structures & Algorithms using Python, Modern Frontend Architecture, and Secure Coding practices.
-* 📖 **Foundational Knowledge:** Deep interest in Operating Systems, Data Structures and Algorithms, Network Security, and Databases.
+* 🎓 **Academic Background:** Pursuing B.Tech in Computer Science & Engineering (3rd Year).
+* 🛡️ **Security Focus:** Exploring Web Application Security, Penetration Testing, Operating System Hardening, and Fundamental Cryptography.
+* 💻 **Technical Core:** Data Structures & Algorithms using Python, Modern Frontend Architecture, and Secure Coding Practices.
+* 📖 **Foundational Knowledge:** Deep interest in Operating Systems, Computer Networks, Database Management Systems, and Web Application Penetration Testing.
 
 ---
 
 ## 🚀 Featured Projects & Technical Work
 
 ### 🌐 **Smart Hassle Solver**
-> *Web Application*
+> * https://kritika-2006.github.io/project/*
 
 * **Workflow Optimization:** Designed to streamline user workflow and daily hassle management with an intuitive user interface.
 * **Responsive Engineering:** Built using core HTML5 & CSS3 standards with clean, maintainable code.
@@ -45,11 +45,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Cybersecurity, Core CS & Tools**
+### **Cybersecurity, Core CS & Developer Tools**
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white)
 
 ---
 
@@ -69,10 +69,13 @@
 Open for technical discussions, software engineering opportunities, cybersecurity collaboration, and open-source learning.
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/kritika-batra-ab6ab0350" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:kritika02056@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/kritika-2006">
+  <a href="https://github.com/kritika-2006" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
