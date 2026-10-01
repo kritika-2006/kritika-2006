@@ -95,6 +95,7 @@
 <div align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  https://github-readme-streak-stats.herokuapp.com/?user=kritika-2006
   
   <!-- GitHub Top Languages / Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=kritika-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
